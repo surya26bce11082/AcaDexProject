@@ -74,7 +74,7 @@ AcaDex/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/AcaDex.git
+git clone https://github.com/surya26bce11082/AcaDexProject
 ```
 
 ### 2. Open the project directory
